@@ -1,0 +1,15 @@
+Question : 2+2 
+Answer : 4
+Question : 100*100 
+Answer : 10000
+Question : what is python 
+Answer : Python is a programming language.
+Question : what is nlp 
+Answer : NLP is a branch of computer science and artificial intelligence that deals with the interaction between humans and computers.
+Question : full form of ias 
+Answer : The full form of IAS is the Indian Administrative Service.
+Question : what is astrology 
+Answer : Astrology is the study of the movements and relative positions of celestial bodies in order to divinate information about human affairs and terrestrial events.
+
+Question : what iis unit oof force 
+Answer : The unit of force is the Newton.
